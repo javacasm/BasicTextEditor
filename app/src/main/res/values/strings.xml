@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Text Editor</string>
+    <string name="txtGuardar">Guardar</string>
+    <string name="btCargar">Cargar</string>
+    <string name="txtHintFileName">Nombre del fichero</string>
+    <string name="txtHintContent">Por favor introduzca el texto</string>
+</resources>
